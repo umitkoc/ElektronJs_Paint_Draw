@@ -1,0 +1,17 @@
+{
+  "name": "Electron_DrawApp-master",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {
+    "electron": "^1.8.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start":"Electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "umitkoc",
+  "license": "ISC"
+}
